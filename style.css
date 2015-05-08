@@ -1,0 +1,14 @@
+/*
+ Theme Name:   Auto Load Next Post Make Support
+ Theme URI:    http://www.sebastiendumont.com
+ Description:  This is a child theme providing support for the plugin Auto Load Next Post
+ Author:       Sebastien Dumont
+ Author URI:   http://www.sebastiendumont.com
+ Template:     make
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  alnp-make-child
+*/
+
+@import url("../make/style.css");
