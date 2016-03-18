@@ -2,9 +2,6 @@
 /**
  * This file loads the content partially.
  */
-
-define( 'PARTIAL', time() );
-
 global $post;
 
 // Check that there are more posts to load.
@@ -23,5 +20,3 @@ while ( have_posts() ) : the_post();
 
 // End the loop.
 endwhile;
-
-?>
